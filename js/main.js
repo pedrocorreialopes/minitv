@@ -9,7 +9,7 @@ const channels = [
     { id: 'msBNSDawTeQ', name: 'Dimas Senopati' },
     { id: 'EUY7ejR9Yzs', name: 'Reisan Acústico' },
     { id: 'i7j0bw5TonI', name: 'Roupa Nova 40 Anos' },
-    { id: 'ht75sAd_8YE', name: 'Melin' }
+    { id: 'ht75sAd_8YE', name: 'Melim' }
 ];
 
 // Estado atual
