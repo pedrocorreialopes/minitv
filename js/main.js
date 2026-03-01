@@ -1,15 +1,15 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'bg5Djyh4gNs', name: 'Canal 01' },
-    { id: 'i8Iox78HK9E', name: 'Canal 02' },
-    { id: 'LB2YU6gcHtA', name: 'Canal 03' },
-    { id: 'RhnqF2L9dZQ', name: 'Canal 04' },
-    { id: 'wYM3cN-tMxw', name: 'Canal 05' },
-    { id: 'joRjg5dN4Ao', name: 'Canal 06' },
-    { id: 'msBNSDawTeQ', name: 'Canal 07' },
-    { id: 'EUY7ejR9Yzs', name: 'Canal 08' },
-    { id: 'i7j0bw5TonI', name: 'Canal 09' },
-    { id: 'ht75sAd_8YE', name: 'Canal 10' }
+    { id: 'bg5Djyh4gNs', name: 'Dino Fonseca' },
+    { id: 'i8Iox78HK9E', name: 'Canções MPB' },
+    { id: 'LB2YU6gcHtA', name: 'Pop Rock Nacional' },
+    { id: 'RhnqF2L9dZQ', name: 'Clássicos do Rock' },
+    { id: 'wYM3cN-tMxw', name: 'Anos 80' },
+    { id: 'joRjg5dN4Ao', name: 'Paula Toller' },
+    { id: 'msBNSDawTeQ', name: 'Dimas Senopati' },
+    { id: 'EUY7ejR9Yzs', name: 'Reisan Acústico' },
+    { id: 'i7j0bw5TonI', name: 'Roupa Nova 40 Anos' },
+    { id: 'ht75sAd_8YE', name: 'Melin' }
 ];
 
 // Estado atual
